@@ -1,0 +1,5 @@
+C:\Users\bruno\Documents\# PROJETOS\sac\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\Ferramentas\obj\Debug\Ferramentas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\# PROJETOS\sac\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\Ferramentas\obj\Debug\Ferramentas.pdb

@@ -1,0 +1,13 @@
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\BLL.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\BLL.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\DAO.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\Ferramentas.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\Modelo.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\DAO.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\Ferramentas.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\bin\Debug\Modelo.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\obj\Debug\BLL.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\obj\Debug\BLL.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\BLL\obj\Debug\BLL.csproj.CopyComplete

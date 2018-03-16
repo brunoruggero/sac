@@ -1,0 +1,9 @@
+modelo - registro na tabela
+sac - interface
+dao - conexões com o banco
+bll - regra de negocios
+
+
+33.144.742-3 - 12
+350.957.888-02 - 14
+22.176.818/0001-00 - 18

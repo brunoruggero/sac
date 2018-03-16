@@ -1,0 +1,5 @@
+C:\Users\bruno\Documents\# PROJETOS\sac\Relatorios\obj\Debug\Relatorios.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\# PROJETOS\sac\Relatorios\obj\Debug\Relatorios.exe.config
+C:\Users\bruno\Documents\# PROJETOS\sac\Relatorios\obj\Debug\Relatorios.Properties.Resources.resources
+C:\Users\bruno\Documents\# PROJETOS\sac\Relatorios\obj\Debug\Relatorios.csproj.GenerateResource.Cache
+C:\Users\bruno\Documents\# PROJETOS\sac\Relatorios\obj\Debug\Relatorios.csproj.CoreCompileInputs.cache

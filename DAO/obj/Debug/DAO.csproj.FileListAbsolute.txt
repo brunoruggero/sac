@@ -1,0 +1,9 @@
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\bin\Debug\DAO.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\bin\Debug\DAO.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\bin\Debug\Modelo.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\bin\Debug\Modelo.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\obj\Debug\DAO.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\obj\Debug\DAO.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\DAO\obj\Debug\DAO.csproj.CopyComplete

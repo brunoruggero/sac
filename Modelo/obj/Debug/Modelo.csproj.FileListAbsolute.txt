@@ -1,0 +1,5 @@
+C:\Users\bruno\Documents\# PROJETOS\sac\Modelo\bin\Debug\Modelo.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\Modelo\bin\Debug\Modelo.pdb
+C:\Users\bruno\Documents\# PROJETOS\sac\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\# PROJETOS\sac\Modelo\obj\Debug\Modelo.dll
+C:\Users\bruno\Documents\# PROJETOS\sac\Modelo\obj\Debug\Modelo.pdb
